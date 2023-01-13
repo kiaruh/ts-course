@@ -12,4 +12,4 @@
 - E.g: ```let loginUser = (name: string, email: string, isPaid: boolean = false) => {}```
 
 
-### ``` sorry no time for more docs```
+### ``` sorry no time for documentation :(```
